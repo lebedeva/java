@@ -1,5 +1,5 @@
 //алгоритм
-
+// числа фибоначи
 package project1;
 
 public class fibonachi {
