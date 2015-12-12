@@ -1,11 +1,10 @@
-//алгоритм
 // числа фибоначи
 package project1;
 
 public class fibonachi {
-    public fibonachi() {
+   /* public fibonachi() {
         super();
-    }
+    }*/
 
     public static void main(String[] args) {
         int lo = 1;
