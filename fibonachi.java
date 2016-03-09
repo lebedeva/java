@@ -3,7 +3,7 @@ package project1;
 
 public class fibonachi {
    /* public fibonachi() {
-        super();
+        super();===
     }*/
 
     public static void main(String[] args) {
