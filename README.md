@@ -6,3 +6,11 @@ Fibonacci (Leonardo of Pisa), ок. 1175–1250
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946, …
 
 В которой первые два числа равны либо 1 и 1, либо 0 и 1, а каждое последующее число равно сумме двух предыдущих чисел. 
+
+# javac Компилируем и запускаем класс из командной строки cmd
+
+Компилируем класс:
+с:\Testing\src>"c:\Program Files (x86)\Java\jdk1.7.0_60\bin\javaс" -d ..\clasess ru\ingos\fibonachi.java
+
+Запускаем класс:
+с:\Testing\clasess>"c:\Program Files (x86)\Java\jdk1.7.0_60\bin\java" ru.ingos.fibonachi
