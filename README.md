@@ -14,7 +14,9 @@ Fibonacci (Leonardo of Pisa), ок. 1175–1250
 - Если Java-приложение надо, просто, запустить на выполнение, то достаточно установленного JRE на ПК. Необходима для исполнения Java-приложений.
 
 В Java существует несколько способов сделать сборку Java-приложения.
+
 <b>1.</b>
+
 <b>Компилируем класс:</b>
 с:\Testing\src>"c:\Program Files (x86)\Java\jdk1.7.0_60\bin\javaс" -d ..\clasess ru\ingos\fibonachi.java
  - Запускаем Java-компилятор. Для этого надо знать, куда установлено JDK ("c:\Program Files (x86)\Java\jdk1.7.0_60\bin\javaс")
