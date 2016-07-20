@@ -18,7 +18,7 @@ Fibonacci (Leonardo of Pisa), ок. 1175–1250
 <b>1. Компилируем класс:</b>
 с:\Testing\src>"c:\Program Files (x86)\Java\jdk1.7.0_60\bin\javaс" -d ..\clasess ru\ingos\fibonachi.java
  - Запускаем Java-компилятор. Для этого надо знать, куда установлено JDK ("c:\Program Files (x86)\Java\jdk1.7.0_60\bin\javaс")
- - Поднимаемся на этаж выше, в директорию clasess, и кидаем туда скомпилированный байт-код (-d ..\clasess).
+ - Поднимаемся на этаж выше и опускаемся в директорию clasess. Кидаем туда скомпилированный байт-код (-d ..\clasess).
  - Java-класс, который будем компилировать (fibonachi.java), находится по указанному пути (ru\ingos\fibonachi.java).
 
 <b>1. Запускаем класс:</b>
